@@ -1,3 +1,2 @@
-<html>
-<title>hello</title>
-</html>
+hello
+
